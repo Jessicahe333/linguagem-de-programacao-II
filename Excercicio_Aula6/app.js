@@ -27,7 +27,7 @@ botaoLancarDado.addEventListener("click", function () {
         pontuacao[jogadorAtual] += dado;        
         pontuacoesGlobais[jogadorAtual].textContent = pontuacao[jogadorAtual];        
         pontuacoesRodadas[jogadorAtual].textContent = dado;    
-        if(pontuacoesGlobais[jogadorAtual].textContent >= 20) {
+        if(pontuacoesGlobais[jogadorAtual].textContent >= 35) {
             alert("O jogador atual venceu!!! \n O jogo terminou!!! \n Clicar em Novo Jogo para começar de novo!");
         }
     }
