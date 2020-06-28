@@ -1,0 +1,75 @@
+.um{
+    display: block;
+    text-align: center;
+    width: 150px;
+}
+.dois{
+    width: 800px;
+    height: 100px;
+    border-radius: 10px;
+    border:2px solid darkblue;
+    background-color:silver;
+}
+.tres{
+    display: block;
+    border: 5px solid green;
+    border-radius: 15px;
+    background-color: beige;
+    width: 800px; 
+    height: 100px; 
+}
+h4{
+    color:rgb(195, 54,54);
+}
+h1{
+    text-align: center;
+    border: 2px dotted;
+}
+h3{
+    border: 2px dotted;
+    font-family: fantasy;
+    font-size: 22px;
+    color: #61c496;
+    text-align: center;
+}
+strong{
+    color: blueviolet;
+    background-color: coral;
+}
+#primeiro{
+    display: inline-block;
+    height: 30px;
+    width: 850px;
+    padding: 12px;
+    border-bottom: 2px solid;
+    background-color:#ffe8cd ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color: cornflowerblue;
+}
+#segundo,#quarto{
+    border: 2px solid;
+    font-weight: bolder;
+    color: darkgreen;
+    text-align: center;
+
+}
+#terceiro{
+    color: salmon;
+    border-bottom: 2px solid;
+    background-color: black;
+}
+#quinto{
+    color:pink;
+    border-bottom: 2px solid;
+    background-color: darkmagenta;
+}
+.materiaopcional{
+    color: crimson;
+    background-color:darkgray;
+}
+.programacao{
+    color: deeppink;
+    background-color: darkorange;
+    font-size: 22px;
+}
